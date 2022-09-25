@@ -1,0 +1,2 @@
+Hi, I’m Hugh Smith (@hsmith22), a Science-Computing Major at the University of Notre Dame. I'm interested in Software Engineering, App Development, and Biocomputing. Currently, I'm currently taking Database Concepts and Intro to Biocomputing courses, with focus on HTML, mySQL, python, and shell scripting. In the past I've also worked with C and C++. I'd like to develop real world applications through software engineering.
+You can reach me via my email, hughgsmith18@gmail.com.
